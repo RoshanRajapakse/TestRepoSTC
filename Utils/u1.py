@@ -5,5 +5,5 @@ def print_star_pattern(n):
     # Print n-i spaces followed by i stars
     print(' '*(n-i) + '*'*i)
 
-# Test the function
+# Test function
 print_star_pattern(5)
