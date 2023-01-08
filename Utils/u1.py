@@ -9,3 +9,4 @@ def print_star_pattern(n):
 print_star_pattern(5)
 
 # Test function 2
+#test 2
